@@ -171,6 +171,14 @@ h5 {
   font-weight: 400;
 }
 
+strong {
+  font-weight: 400;
+}
+
+cite, em {
+  font-style: italic;
+}
+
 /*
   ==========================================================
 
